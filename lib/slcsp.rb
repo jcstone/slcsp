@@ -2,5 +2,5 @@ require "slcsp/version"
 
 module Slcsp
   class Error < StandardError; end
-  # Your code goes here...
+  require "slcsp/identify_plan"
 end
