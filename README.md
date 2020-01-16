@@ -3,8 +3,20 @@
 Justin Stone's solution for the [SLCSP Problem](https://homework.adhoc.team/slcsp/).
 
 ## Usage
+Install dependencies:
+```
+bundle install
+```
 
-TODO: Write usage instructions here
+Load console:
+```
+bin/console
+```
+
+Run program:
+```
+Slcsp::IdentifyPlan.new.find_slcsp
+```
 
 ## Development
 
